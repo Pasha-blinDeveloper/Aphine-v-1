@@ -1,13 +1,7 @@
 # ВСЁ ПРОЧИТАТЬ ЭТО РЕАЛЬНО ВАЖНО
 # Чтобы скачать афину нажмите на зелёную кнопку Clone of Download а затем Download ZIP
-# У вас должен быть установлен язык програмирования Python 3.7.5
-# введите данные коммады в командную сторку: 
-# pip install colorama 
-# pip install pyowm 
-# pip install 
-# pip install SpeechRecognition 
-# pip install PyAudio 
-# pip install pyttsx3
+# качаем Python 3.7.5 по ссылке ниже 
+https://www.python.org/ftp/python/3.7.5/python-3.7.5.exe
 # Запуск афины производить из папки Relase to GitHub\Aphine\aphine.py
 # Чтобы настроить афину запустите программу settings_aphine из папки Программа для настрройки Афины
 # все файлы Афины находятся в папке relase to GitHub 
